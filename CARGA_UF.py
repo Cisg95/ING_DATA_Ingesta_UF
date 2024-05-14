@@ -14,7 +14,7 @@ API_FORMAT = '&formato=json'
 
 # Variables del proyecto GCP
 TABLA_DESTINO = 'operaciones_payment.uf_table'
-PROYECTO = 'fif-pay-cross-development'
+PROYECTO = 'proyecto_xxxxx'
 
 def main():
     # Obtener datos de la API
