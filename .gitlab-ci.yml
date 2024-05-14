@@ -1,0 +1,18 @@
+---
+variables:
+  API_KEY: "c4d1fe42dc72782d5858092c7eb57ab66ec327b5"
+
+stages:
+  - build
+  - test
+
+build_job:
+  stage: build
+  script:
+    - echo "Compilando el proyecto..."
+
+test_job:
+  stage: test
+  script:
+    - echo "Ejecutando pruebas..."
+

@@ -1,0 +1,6 @@
+wheel
+pandas
+pandas-gbq
+requests
+requests-oauthlib
+google-cloud-bigquery
