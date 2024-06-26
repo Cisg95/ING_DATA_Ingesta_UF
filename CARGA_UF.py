@@ -5,7 +5,7 @@ from pandas_gbq import read_gbq
 from pandas_gbq import to_gbq
 
 # Configurar variables para API
-''' API_KEY, la key se mantiene activa mientras exista el usuario cissavedrag@falabella.cl. 
+''' API_KEY, la key se mantiene activa mientras exista el usuario
     Si el usuario deja de existir, revisar la documentacion: https://api.cmfchile.cl/documentacion/UF.html para obtener una nueva
 '''
 API_URL = 'https://api.cmfchile.cl/api-sbifv3/recursos_api/uf?apikey='
