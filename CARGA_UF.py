@@ -13,7 +13,7 @@ API_KEY = os.environ["API_KEY"]
 API_FORMAT = '&formato=json'
 
 # Variables del proyecto GCP
-TABLA_DESTINO = 'operaciones_payment.uf_table'
+TABLA_DESTINO = 'project_dataset.uf_table'
 PROYECTO = 'proyecto_xxxxx'
 
 def main():
